@@ -1,0 +1,374 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The improvement of navigation a great cause of the increase of knowledge a sermon preached June 7, 1680 before the Corporation of Trinity House in Deptford Strand, at the election of their master / by Richard Holden, Vicar of Deptford.</title>
+            <author>Holden, Richard, 1626 or 7-1702.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44124</idno>
+            <idno type="STC">Wing H2380</idno>
+            <idno type="STC">ESTC R4281</idno>
+            <idno type="EEBO-CITATION">12187132</idno>
+            <idno type="OCLC">ocm 12187132</idno>
+            <idno type="VID">55819</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44124)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55819)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 107:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The improvement of navigation a great cause of the increase of knowledge a sermon preached June 7, 1680 before the Corporation of Trinity House in Deptford Strand, at the election of their master / by Richard Holden, Vicar of Deptford.</title>
+                  <author>Holden, Richard, 1626 or 7-1702.</author>
+               </titleStmt>
+               <extent>[4], 34, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Macock for John Martyn ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by their appointment"</note>
+                  <note>Errata: p. [1] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Navigation --  Great Britain --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55819:1"/>
+            <pb facs="tcp:55819:1"/>
+            <p>THE IMPROVEMENT OF NAVIGATION A great Cauſe of the Increaſe of Knowledge. A SERMON Preached <hi>June</hi> 7. 1680. before the CORPORATION of <hi>TRINITY-HOUSE</hi> in <hi>Deptford Strand,</hi> At the Election of their Maſter.</p>
+            <p>By <hi>Richard Holden,</hi> Vicar of <hi>Deptford.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed by their Appointment.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Macock,</hi> for <hi>John Martyn</hi> at the <hi>Bell</hi> in S<hi rend="sup">t</hi> 
+               <hi>Paul</hi>'s <hi>Church-Yard,</hi> 1680.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:55819:2"/>
+            <pb facs="tcp:55819:2"/>
+            <head>TO THE Right Honourable <hi>GEORGE</hi> Earl of BERKLEY, Viſcount DURSLEY, Lord BERKLEY of <hi>Berkley-Caſtle, &amp;c.</hi> and Maſter of the Corporation of <hi>Trinity-Houſe</hi> in <hi>Deptford Strand.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>WHEN this Sermon was Preached before You, Your Lordſhip and the Worthy Gen<g ref="char:EOLhyphen"/>tlemen of Your Society were pleaſed by many kind and obliging Expreſſi<g ref="char:EOLhyphen"/>ons to ſignifie your favourable accep<g ref="char:EOLhyphen"/>tance of it, and to let me know that it was your deſire it might be made publick: Which, I confeſs, was ſomewhat of a ſurpriſe to me. Yet
+<pb facs="tcp:55819:3"/>I conſidered, that I ought to look up<g ref="char:EOLhyphen"/>on the repeated declaration of your Lordſhips pleaſure, and the concur<g ref="char:EOLhyphen"/>rent Vote of ſo many judicious per<g ref="char:EOLhyphen"/>ſons, in the nature of a command; and have therefore choſen by this act of ſubmiſſion to pay that deference which is due to your judgment, there<g ref="char:EOLhyphen"/>by giving the beſt aſſurance I can, that I am,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>Your Lordſhips moſt humble and moſt obedient Servant, RI. HOLDEN.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:55819:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>DANIEL XII. 4.</hi>
+                  </bibl>
+                  <p>—Many ſhall run to and fro, and knowledge ſhall be encreaſed.</p>
+               </q>
+            </epigraph>
+            <p>THis Book conſiſts of Hiſtory and Prophecy: In the hiſto<g ref="char:EOLhyphen"/>rical Part, there are great ar<g ref="char:EOLhyphen"/>guments of <hi>Daniel</hi>'s and his Companions piety, of their conſtant faith in God, and courage in perſecutions, toge<g ref="char:EOLhyphen"/>ther with an account of the miraculous de<g ref="char:EOLhyphen"/>liverances which God wrought for them. In the prophetical, there are predictions of ſtrange Revolutions, and of great chan<g ref="char:EOLhyphen"/>ges and alterations of Government, which ſhould happen in ſeveral of the great King<g ref="char:EOLhyphen"/>doms of the World; and theſe ſo plainly deſcribed, that <hi>Porphyrie</hi> would not believe they were written before the event.</p>
+            <p>But above all, there are clear and di<g ref="char:EOLhyphen"/>ſtinct prophecies of the <hi>Meſſias,</hi> his name, offices, and the time of his death, when he ſhould be <hi>cut off,</hi> and <hi>make a reconciliation for iniquity, Dan.</hi> 9.24, — 26.</p>
+            <pb n="2" facs="tcp:55819:4"/>
+            <p>In the three firſt Verſes of this Chapter, he ſpeaks of the twofold coming of Chriſt, at firſt to publiſh and confirm the Goſpel, <hi>verſ.</hi> 1. the other, to reward his faithful Servants, and to puniſh obſtinate and in<g ref="char:EOLhyphen"/>corrigible Sinners, <hi>ver.</hi> 2, 3. <hi>And many of them that ſleep in the duſt of the Earth ſhall awake, ſome to everlaſting life, and ſome to ſhame, and everlaſting contempt.</hi>
+            </p>
+            <p>And becauſe many things here foretold were not to come to paſs of ſome Ages af<g ref="char:EOLhyphen"/>ter, therefore he is commanded in the be<g ref="char:EOLhyphen"/>ginning of this verſe to ſhut up the Words and ſeal the Book, until the time of the end; that is, to preſerve it carefully, that afterwards by comparing the prophecies with the events, men may ſee that theſe things were known to God long before.</p>
+            <p>For this is the great reaſon why God has been pleaſed in his Word to reveal to his Church many things which ſhall happen in after Ages: His end and deſign therein was not to gratifie the curioſity of men, who are naturally deſirous to know what ſhall come to paſs in future times; but to clear his own Omniſcience, and to make
+<pb n="3" facs="tcp:55819:4"/>it manifeſt after their accompliſhment, that they were not caſual or unexpected to him, but that he had a certain fore<g ref="char:EOLhyphen"/>knowledge of them. Whence it is, that Prophecies are wont to be expreſſed in obſcure words and in a dark language, and are called <hi>a ſealed Book;</hi> becauſe the meaning of them, at leaſt in all the cir<g ref="char:EOLhyphen"/>cumſtances, is hidden from us, till ex<g ref="char:EOLhyphen"/>pounded by the event; which, when all is done, is uſually their beſt Interpreter.</p>
+            <p>But, ſaith he, in the words of the Text, before the time of the end come, before the accompliſhment of this great Prophe<g ref="char:EOLhyphen"/>cy, concerning the conſummation and concluſion of all things, the end of the World and the Day of Judgment, <hi>Many ſhall paſs to and fro, and knowledge ſhall be encreaſed.</hi>
+            </p>
+            <p>In which Words we have theſe two Parts, 1. A Prediction of ſomething re<g ref="char:EOLhyphen"/>markable that ſhould happen in the latter days, <hi>Many ſhall paſs to and fro.</hi> 2. The conſequent of that, the benefit which thence ſhould redound to mankind, <hi>And knowledge ſhall be encreaſed.</hi>
+            </p>
+            <pb n="4" facs="tcp:55819:5"/>
+            <p n="1">1. For the former, the Prediction of ſomewhat remarkable that ſhould happen in the latter days, <hi>Many ſhall run or paſs to and fro.</hi> Not to trouble you with variety of Expoſitions, that which ſeems moſt probable in it ſelf, as well as moſt ſuitable to the occaſion of this ſolemn Aſſembly, is, That in theſe Words the Prophet fore<g ref="char:EOLhyphen"/>tells the great improvement there ſhould be of Navigation in the latter Ages of the World. And this Interpretation I ground upon the proper notion of the Hebrew Verb here uſed <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which as it ſigni<g ref="char:EOLhyphen"/>fies in Scripture generally any way of mo<g ref="char:EOLhyphen"/>tion or paſſage, ſo in the <hi>Chaldee</hi> (which is the language wherein the Prophet wrote the greateſt part of this Book) it properly ſignifies to move upon the waters: and the words which come from it referre to this ſenſe, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Ezek.</hi> 27.8. is rendered <hi>Mariners,</hi> and <hi>verſ.</hi> 26. <hi>thy rowers,</hi> and <hi>Iſai.</hi> 33.21. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is <hi>a Gally with Oars.</hi> And to this ſence the vulgar Latine had an eye when it tranſlates the words of the Text, <hi>Plurimi pertranſibunt, &amp; multiplex erit ſcientia,</hi> Many ſhall paſs through (as it were from
+<pb n="5" facs="tcp:55819:5"/>one end of the World to another) and know<g ref="char:EOLhyphen"/>ledge ſhall be encreaſed.</p>
+            <p>And how exactly the event has anſwered the Prophecy, will eaſily appear to any one who conſiders that the <hi>Mediterranean</hi> was the biggeſt Sea which was known to the wiſeſt Nations of thoſe Ages, the <hi>Hebrews, Greeks</hi> and <hi>Romans,</hi> whence in all their Languages it is called the Great Sea,
+<note place="margin">Numb. 34.6. Joſh. 1.4. Rom. 7.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> it being greater by far than any other they knew; the Sea of <hi>Ga<g ref="char:EOLhyphen"/>lilee,</hi> and of <hi>Genezareth,</hi> and the reſt being but bigger Lakes, and the <hi>Red Sea</hi> much leſs than it.</p>
+            <p>And though they had heard of the Ocean, which is mentioned by <hi>Homer,</hi> yet little or no uſe of it was made in many Ages for Na<g ref="char:EOLhyphen"/>vigation, inſomuch that St. <hi>Clemens,</hi>
+               <note place="margin">Ep<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r. p. 28.</note> who lived in the firſt Age of Chriſtianity, ſays, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that <hi>the Ocean was not to be paſſed by men;</hi>
+               <note place="margin">Jun. in loc.</note> and yet it is thought that he meant no other but the narrow Sea which is betwixt <hi>England</hi> and <hi>France.</hi> Further than <hi>Hercules</hi>'s <hi>Pillars</hi> or <hi>Gades,</hi> they accounted, as <hi>Pindar</hi>'s words are,
+<note place="margin">Oly n. 3. ad fin.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, wholly unpaſſable, fil<g ref="char:EOLhyphen"/>led with nothing but darkneſs and confuſion.</p>
+            <pb n="6" facs="tcp:55819:6"/>
+            <p>And <hi>Herodotus</hi> relating how <hi>Neco</hi> King of <hi>Egypt</hi> ſent out ſome <hi>Phoenician</hi> adventures from the <hi>Red Sea,</hi>
+               <note place="margin">Lib. 4. Ch. 42. p. 237.</note> who when, after a voy<g ref="char:EOLhyphen"/>age of three years, they were come home, affirmed that they had ſailed around <hi>Africk, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> where they had the Sun on their right hand,</hi> and ſo returned by the <hi>Streights</hi> through the <hi>Mediterranean</hi> into <hi>E<g ref="char:EOLhyphen"/>gypt</hi> again; he relates it trembling, as a ſto<g ref="char:EOLhyphen"/>ry he durſt give no credit to himſelf, though poſſibly ſome others might.</p>
+            <p>Nay, he was ſo far from aſſenting to it, that he denies there is any ſuch thing as an Ocean,
+<note place="margin">Lib. 2. Ch. 23. p. 98.</note> and blames the <hi>Geographers</hi> of his time, for affirming without any proof, that the Earth was encompaſſed by it.</p>
+            <p>And as for thoſe few who did venture to launch out into this great Deep, they did it with much fear and caution, as appears by the Voyages of <hi>Solomon</hi>'s and <hi>Hiram</hi>'s Fleets to <hi>Ophir,</hi> 1 <hi>Kings</hi> 10.22. that is, to <hi>Summe<g ref="char:EOLhyphen"/>tra</hi> or <hi>Zeilan,</hi>
+               <note place="margin">Boet. Phat. Lib. 2. Ch. 27. Chan. lib. 1. ch. 46.</note> (as learned men prove from the Commodities they brought thence) in which they did but creep by the ſhore all the way, as is manifeſt from the length of time ſpent in one of thoſe Voyages, three
+<pb n="7" facs="tcp:55819:6"/>years, which is now performed in leſs than half the time from theſe parts of the World, though the diſtance be ten times as much from hence, as it was from the <hi>Red Sea,</hi> where <hi>Solomon</hi>'s ſhips ſet out. And when a<g ref="char:EOLhyphen"/>ny one undertook and ſucceeded in an at<g ref="char:EOLhyphen"/>tempt of that nature, he was looked upon as an extraordinary and Divine Perſon, as we read of <hi>Hanno</hi> a <hi>Carthaginian,</hi> who, it is like, was the firſt that ventured out of the <hi>Streights,</hi> and built ſome Cities upon the neighbouring Coaſts of <hi>Afric,</hi> that he valu<g ref="char:EOLhyphen"/>ed himſelf ſo highly upon this performance, and grew ſo vain in his imagination, as to account himſelf a God; and that others might think ſo of him too, <hi>Aelian</hi> ſays,
+<note place="margin">Var. lib. 14. ch. 30.</note> he had taught certain Birds to call him, <hi>The Great God Hanno:</hi> So was he puffed up with a ſuc<g ref="char:EOLhyphen"/>ceſsful Voyage into diſtant and unknown Places.
+<note place="margin">Vit. Agr.</note> And <hi>Tacitus</hi> ſpeaking of ſome ſe<g ref="char:EOLhyphen"/>ditious Souldiers in the Roman Army, who ſeizing upon three Veſſels, compelled the Mariners to ſail with them round about this <hi>Iſland of Britain:</hi> He calls it <hi>magnum &amp; memo<g ref="char:EOLhyphen"/>rabile facinus, a great and daring attempt, which deſerved to have</hi> the memory of it perpetua<g ref="char:EOLhyphen"/>ted
+<pb n="8" facs="tcp:55819:7"/>to all Generations.</p>
+            <p>And now, I am ſure, I need not in this <hi>Auditory</hi> adde any thing to ſhew how much the modern improvements are advanced be<g ref="char:EOLhyphen"/>yond the utmoſt that the boldeſt Adventu<g ref="char:EOLhyphen"/>rers of old could attain to: the new Iſlands and Kingdoms, and the new World diſcove<g ref="char:EOLhyphen"/>red of late Ages do give abundant proof of that, and your own experience confirms it.</p>
+            <p>I proceed therefore to the ſecond Head, The conſequent of this improvement, the benefit which ſhould thereby redound to mankind; that together with Navigation, knowledge ſhould likewiſe proportionably advance too. 1. The knowledge of Na<g ref="char:EOLhyphen"/>ture. 2. The knowledge of Arts. 3. The knowledge of Divine Providence; and 4. The knowledge of true Religion.</p>
+            <p n="1">1. The knowledge of Nature; which is an effectual means to lead us to the know<g ref="char:EOLhyphen"/>ledge and love of God,
+<note place="margin">Pſal. 19.1, 2.</note> 
+               <hi>The Heavens declare the Glory of God, and the Firmament ſheweth his handy-work:</hi> the frame and motion and influ<g ref="char:EOLhyphen"/>ences of the Heavens do demonſtrate to any man, who conſiders them with attention,
+<pb n="9" facs="tcp:55819:7"/>how great and powerful, and wiſe and graci<g ref="char:EOLhyphen"/>ous, that God is, who formed them and all the other Creatures, which do continually preach and inſtruct men in the glories of the great Creator. The whole World, ſaith St. <hi>Baſil,</hi> is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the School of rea<g ref="char:EOLhyphen"/>ſonable Souls where they may be taught to know God.</p>
+            <p>And for this reaſon the <hi>Pſalmiſt</hi> calls upon the <hi>Heavens, and Sun, and Moon,
+<note place="margin">Pſal. 148.</note> and Stars to praiſe the Lord,</hi> becauſe thoſe heavenly bo<g ref="char:EOLhyphen"/>dies do by their beauty, and order, and greatneſs, and uſefulneſs, and long conti<g ref="char:EOLhyphen"/>nuance, proclaim the Power, and Wiſdom, and Goodneſs of him who made them all out of nothing; as <hi>Moſes</hi> ſaid at the begin<g ref="char:EOLhyphen"/>ning, <hi>God ſaw every thing that he had made, and behold it was very good;</hi> ſo good as to glorifie the maker, by exciting the behold<g ref="char:EOLhyphen"/>ers to magnifie and adore him.</p>
+            <p>If we go over the whole frame of things, ſaith St. <hi>Auguſtin,</hi>
+               <note place="margin">Tom. 8. in Pſal. 26.</note> there is not a creature but tells us with a loud voice, <hi>Deus me fecit, God made me.</hi> Whatever is good or delight<g ref="char:EOLhyphen"/>ful in the Work, commends the Author. If you look up to the Heavens, they are the
+<pb n="10" facs="tcp:55819:8"/>work of his hands, (I, and contrary to the laws of Architecture, he made the Heavens firſt and then the Earth, ſet up the roof be<g ref="char:EOLhyphen"/>fore he laid the foundation:) if you look down upon the Earth, God made that va<g ref="char:EOLhyphen"/>riety of Seeds, that diverſity of Plants, that multitude of living Creatures: and who can fully ſet forth the praiſes of all theſe? of the Heaven, and Earth, and Sea, and all in them? or of the inviſible Beings, the An<g ref="char:EOLhyphen"/>gels, and Thrones, and Dominions, and Powers? or of the Soul that is in us, which gives life to the body, moves the parts, acts the ſenſes, comprehends ſo many things in its memory, and diſcerns and judges of them by its underſtanding? And if we be at a loſs in ſpeaking of the effects, with what language can we ſufficiently magnifie the glories of the Almighty cauſe of all?</p>
+            <p>Now the improvement of <hi>Navigation</hi> hath hugely advanced the knowledge of Nature, and of the works of God.
+<note place="margin">Pſal. 104.24, &amp;c.</note> 
+               <hi>O Lord,</hi> ſaith the Pſalmiſt, <hi>how manifold are thy works! in wiſdom haſt thou made them all: the Earth is full of thy riches. So is this great and wide Sea, wherein are things creeping—There go the Ships:</hi>
+               <pb n="11" facs="tcp:55819:8"/>And by the help of them, theſe latter ages of the World have arrived at a much fuller knowledge of thoſe manifold works of God, than former times could attain to. Every Region, and every Country a<g ref="char:EOLhyphen"/>bounds with his wonders, which were all concealed and hidden, or at moſt but im<g ref="char:EOLhyphen"/>perfectly and fabulouſly related, whilſt they were deprived of intercourſe with one ano<g ref="char:EOLhyphen"/>ther.</p>
+            <p>To give one inſtance of this. It was a general opinion amongſt the Ancients, that the Countries which lie under or near the Aequinoctial Line, were not habitable by reaſon of the great and violent heats they muſt be ſubject to; for finding all places, by how much nearer they lie to that, ſo much more expoſed to heat; they concluded that between the <hi>Tropicks</hi> all was <hi>exuſta flam<g ref="char:EOLhyphen"/>mis &amp; cremata,</hi> as <hi>Pliny</hi>'s words are,
+<note place="margin">Nat. Hiſt. l. 2. c. 68.</note> wholly burnt up and not to be endured.</p>
+            <p>I know a worthy writer of our own Na<g ref="char:EOLhyphen"/>tion is pleaſed to affirm,
+<note place="margin">Sir <hi>w. Ral.</hi> Hiſt. l. 1. c. 3. §. 8.</note> That <hi>Tertullian</hi> of all the Ancients was of another opinion which came nearer to the truth, and that he thought the Countries within the torrid
+<pb n="12" facs="tcp:55819:9"/>Zone, to be places of great pleaſure and delight; imagining withal that Paradiſe where our firſt Parents were placed, and where the Souls of good men go after death, was ſeated there. But certainly this judici<g ref="char:EOLhyphen"/>ous perſon either did not read, or ſtrangely miſtook his Author.
+<note place="margin">Apol. c. 47.</note> For <hi>Tertullian</hi>'s opini<g ref="char:EOLhyphen"/>on appears to have been, That Paradiſe is not within the <hi>Tropicks,</hi> but beyond the fur<g ref="char:EOLhyphen"/>theſt of them, and that it is <hi>maceriâ quâdam igneae illius Zonae à notitiâ orbis communis ſegre<g ref="char:EOLhyphen"/>gatus:</hi> ſevered from the known world by the hedge and fence, as it were, of the fiery Zone, which not being to be paſt through, it is like the Angels flaming Sword, to keep men from approaching near that Paradiſe which lies beyond it.</p>
+            <p>And give me leave to obſerve in paſſing, that poſſibly this conceit of his in firſt ma<g ref="char:EOLhyphen"/>king this earthly Paradiſe to be the ſeat of the Bleſſed till the Reſurrection, and then placing it beyond this (as he imagined) burn<g ref="char:EOLhyphen"/>ing Region, might give riſe to the Doctrine of <hi>Purgatory</hi> in the <hi>Romiſh Church,</hi> which teaches that there is a place of flames to be gone through after Death, before the Soul
+<pb n="13" facs="tcp:55819:9"/>arrives at a ſtate of happineſs. And thus ig<g ref="char:EOLhyphen"/>norance in <hi>Geography</hi> begot a very great er<g ref="char:EOLhyphen"/>rour in Divinity.</p>
+            <p>For experience and late diſcoveries have convinced the World, that thoſe parts, which of old were with ſome colour of reaſon judged uninhabitable, are not only well peopled, but withal ſo excellent in the plea<g ref="char:EOLhyphen"/>ſant and healthful temperature of the Air, and ſo abundantly ſtored with all manner of proviſion and delight, that they yield to no part of the Earth, but go beyond all others.</p>
+            <p>And this does very much vindicate and clear that Divine wiſdom which made the World;
+<note place="margin">Georg. l. 2. p. 76.</note> for had that been true which <hi>Strabo</hi> affirms, and was generally believed, that if we divide the Earth into five parts, three of them are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> uncapable of inhabi<g ref="char:EOLhyphen"/>tants, the ſcoffing Atheiſt would have had ſome colour to ask, Why the biggeſt part of the Earth was made in vain and for no uſe.</p>
+            <p>But now, when we conſider that that part of it which the greateſt Wits of for<g ref="char:EOLhyphen"/>mer ages judging in appearance with great
+<pb n="14" facs="tcp:55819:10"/>reaſon, did conclude to be almoſt all flame, ſo unſupportably hot, that men could not live or breathe in it, is now found by expe<g ref="char:EOLhyphen"/>rience to be ſo far from that, that it is ra<g ref="char:EOLhyphen"/>ther the Garden and Paradiſe of the whole Earth; it will teach us thus much, that as the Apoſtle ſpeaks,
+<note place="margin">1 Cor. 3.19.</note> 
+               <hi>The wiſdom of this world</hi> (even of the wiſeſt men in it) <hi>is fooliſhneſs with God:</hi> and that there cannot be a great<g ref="char:EOLhyphen"/>er folly, than for us men to think of mea<g ref="char:EOLhyphen"/>ſuring his Ocean by our ſpan, or that we can fathom his depths with the ſhort line of humane reaſon.</p>
+            <p>Ignorance and Impiety have only one thing now to object, which is, That ſtill thoſe parts of the Earth which lie under each Pole, are by reaſon of their exceſſive cold not to be inhabited. Of the North we have proof, and there is as much ground to be<g ref="char:EOLhyphen"/>lieve it of the South.</p>
+            <p>But to this I ſhall Anſwer in the ſenſe of a moſt Learned perſon;
+<note place="margin">Voſſ. de Idol. l. 2. c. 2.</note> That the reaſon of the Univerſe required it ſhould be ſo: For the Sun, the Fountain of heat, being moſt fitly placed in the middle betwixt the two Tropicks, it was neceſſary that under
+<pb n="15" facs="tcp:55819:10"/>each Pole there ſhould be a fountain of Cold too, which might diſperſe it ſelf over all the World to temper and allay the Suns heat, as experience ſhows it does after an extream hot ſeaſon, by the blowing of the North wind. And without this cold, the watry humour would have been quite con<g ref="char:EOLhyphen"/>ſumed, which yet is no leſs neceſſary to the production and conſervation of things than heat it ſelf is.</p>
+            <p n="2">2. The knowledge of Arts. Without Winds, and Seas, and Ships,
+<note place="margin">Nat. qu. l. 5. c. 18.</note> as <hi>Seneca</hi> truly ſpeaks, man would have been <hi>imperitum ani<g ref="char:EOLhyphen"/>mal,</hi> an ignorant and unknowing Creature, confined to his own home without the be<g ref="char:EOLhyphen"/>nefit or ſo much as the knowledge of what might be learnt from the People, or en<g ref="char:EOLhyphen"/>joyed and made uſe of from the product and improvement of diſtant Countries.</p>
+            <p>No Nation is ſo ſelf-ſufficient as to abound with all the proviſions of life, but either wants or does but ſparingly enjoy what o<g ref="char:EOLhyphen"/>thers have in great abundance, both for themſelves and ſtrangers, ſome of which are for neceſſity and uſe, others for delight and ornament: One Nation is a Granary
+<pb n="16" facs="tcp:55819:11"/>for Corn, another a Wardrobe for Cloath<g ref="char:EOLhyphen"/>ing, a third a Vineyard for Wine, a fourth a Mine for Gold and Silver, a fifth a Store-houſe for all Proviſions of War: And even this Country of ours in the moſt barbarous and rude, and uncultivated times of it, when only a ſmall part of it towards the end of <hi>Cornwall</hi> was diſcovered by the <hi>Phoe<g ref="char:EOLhyphen"/>nicians,</hi>
+               <note place="margin">Geogr. 1.2. p. 121.</note> (as <hi>Strabo</hi> tells us) they valued it ſo highly for the Mines of Tin which they found there, that they did <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, conceal and keep it cloſe from all the World beſides, that they might engroſs the benefit of that uſeful commodity to themſelves: And adds withal, That one of their Ships being followed by the <hi>Romans</hi> out of a de<g ref="char:EOLhyphen"/>ſign to diſcover the place, the Comman<g ref="char:EOLhyphen"/>der diſcerning their intent, ran his Ship on ſhore, and drew them after him into the ſame ruine; but he eſcaping with his life, had amends made him when he returned home, out of the publick Treaſury, for the good ſervice he had done his Country in keeping ſo beneficial a Trade ſtill concealed from their Enemies, though it was with the hazard of his life and the loſs of all his goods.</p>
+            <pb n="17" facs="tcp:55819:11"/>
+            <p>Now Ships are the great Bridge of a Kingdom, which reach from hence to the <hi>Eaſt</hi> or <hi>Weſt Indies,</hi> tranſport into foreign Countries what can be ſpared at home, and in exchange bring back with them whatever any part of the Earth affords, and make the Sea become the great Mart of the whole World.</p>
+            <p>And, together with Wealth and the con<g ref="char:EOLhyphen"/>veniences of life, Learning and all uſeful knowledge is hugely improved this way. There may be a <hi>traditio lampadis,</hi> not only from one Age, but from one Nation to an<g ref="char:EOLhyphen"/>other too. This Conſideration put ſome great Philoſophers, <hi>Pythagoras</hi> and <hi>Plato,</hi> up<g ref="char:EOLhyphen"/>on travelling all the learned World over, that they might enjoy the Converſation of knowing men, who were not all confined to one Countrey, however the vanity of the <hi>Greeks</hi> reckoned all the World but themſelves barbarous.</p>
+            <p>Whenas yet their own Writers confeſs, They learn'd <hi>Arithmetick</hi> and <hi>Aſtronomy</hi> (we may add the very uſe of Letters too) from the <hi>Phoenicians,</hi> who were the greateſt Mer<g ref="char:EOLhyphen"/>chants and Navigators of thoſe Ages, and
+<pb n="18" facs="tcp:55819:12"/>by that means attained a great name for <hi>Philoſophy,</hi> and all kind of wiſdome and knowledge;
+<note place="margin">Il. 4. v. 743.</note> whence it is that <hi>Homer</hi> calls the <hi>Sidonians</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as being men who had acquaintance with all the beſt and moſt ingenious Arts. And the Scripture it ſelf, as in one place it gives it the Attribute of the <hi>Great Sidon,</hi>
+               <note place="margin">Joſh. 11.8.</note> not as if there was any other of the ſame name leſs than it, but be<g ref="char:EOLhyphen"/>cauſe it was the chief City of all <hi>Phoenicia,</hi> having a convenient Haven, and abounding in ſhipping, whereby it became exceeding rich and populous; ſo in another place it calls it <hi>very wiſe, Tyrus and Sidon though it be ve<g ref="char:EOLhyphen"/>ry wiſe:</hi>
+               <note place="margin">Zach. 9.2.</note> for as the Inhabitants of thoſe two Cities were obſerved to be naturally men of ſharp and lively and piercing wits; ſo by their traffick and converſation abroad, they had much improved themſelves in all kind of uſeful knowledge, and were grown fa<g ref="char:EOLhyphen"/>mous for their wiſdom all the Eaſtern World over.</p>
+            <p>And as Navigation did advance them to this height of knowledge both in learned and mechanical arts; ſo whereever it is upheld, it enlargeth the minds, improves the Parts,
+<pb n="19" facs="tcp:55819:12"/>and ſharpens the Wits of men; it diſcovers to them the works of Nature, the inventi<g ref="char:EOLhyphen"/>ons of Art, and the wonders of God.</p>
+            <p n="3">3. The knowledg of Divine Providence. <hi>They who go down to the Sea in Ships,
+<note place="margin">Pſal. 107.23, 24.</note> theſe ſee the works of the Lord, and his wonders in the Deep.</hi> His works of Creations, and his wonders of Providence.</p>
+            <p>Men are wont to think with ſome kind of aſtoniſhment upon thoſe mighty miracles, which God wrought for his ancient people, in dividing the <hi>Red Sea,</hi> and drying up the River <hi>Jordan;</hi> but truly, if we were not ſhamefully blinded by our own ſin and igno<g ref="char:EOLhyphen"/>rance, which keep us employed about any thing rather than in weighing and medita<g ref="char:EOLhyphen"/>ting on the works of God,
+<note place="margin">Aug. de Trinit. l. 3. c. 2.</note> we might every day ſee wonders as great as theſe, which ought in reaſon to induce us to the admirati<g ref="char:EOLhyphen"/>on and love and worſhip of our heavenly Father.</p>
+            <p>We behold the Waters hanging aloft in the Air, and theſe not falling down all at once, but in ſmall drops, that they may re<g ref="char:EOLhyphen"/>freſh the Earth and make it fruitful, but not oppreſs it.</p>
+            <pb n="20" facs="tcp:55819:13"/>
+            <p>The Sea, with its huge body of Waters, does daily with a mighty violence beat up<g ref="char:EOLhyphen"/>on the humble ſhore, which is no firm or well-compacted body neither, but an heap of Sand;
+<note place="margin">Job 38.10.</note> this is all the <hi>Bars and Gates</hi> which Almighty God ſpeaks of that <hi>He hath ſet to it,</hi> and yet by theſe it is reſtrained in the midſt of its greateſt rage and tumult, and forced to return back upon it ſelf, as if God ſtood by it all the while, and beſpake it in thoſe words of his in the next Verſe,
+<note place="margin">Verſ. 11.</note> 
+               <hi>Hither<g ref="char:EOLhyphen"/>to ſhalt thou come, but no further, and here ſhall thy proud waves be ſtaid:</hi> though it be perpetu<g ref="char:EOLhyphen"/>ally tumultuous, foaming and toſſing and ſwelling it ſelf, labouring to overflow all by its Waves and Billows; yet has God ſet ſuch boundaries to it, that it obſerves a me<g ref="char:EOLhyphen"/>thod in its diſorder, a temper in its madneſs, ſeldome tranſgreſſes the known marks. And yet (ſuch is our folly and abſence of reaſon) we are more inclinable to aſcribe theſe things to Nature, than to God who is the Au<g ref="char:EOLhyphen"/>thor and Parent of Nature.</p>
+            <p>But this is but a wonder of the ſhore; the <hi>Pſalmiſt</hi> ſpeaks there of God's wonders in the deep, the amazing dangers and miracu<g ref="char:EOLhyphen"/>lous
+<pb n="21" facs="tcp:55819:13"/>deliverances; ſometimes they meet with horrible and affrighting Tempeſts, Waves that toſs their Ship with ſuch violence as if they would raiſe them to the Clouds, and at the next moment ſink them into the bottom of the Sea, and immediately overwhelm them; and all this not a work of Chance, but of Divine Providence,
+<note place="margin">Pſal. 13.5.—7.</note> it is God who <hi>has the winds in his treaſuries,</hi> and can ſend them forth, or recal them, as he pleaſeth.</p>
+            <p>And though this be that which the <hi>Pſal<g ref="char:EOLhyphen"/>miſt</hi> immediately referres to, yet the Deep has many other wonders, the vaſt extent of it proportionable (according to the moſt moderate account) to the whole Earth, which is dry and not covered with waters; the great number of living Creatures which are in it; and, that great Riddle of Nature, the daily flux and reflux.</p>
+            <p>But, as I obſerved before, the Ocean be<g ref="char:EOLhyphen"/>ing unknown in thoſe times and places, the Prophet by <hi>the great and wide Sea,</hi> muſt be ſup<g ref="char:EOLhyphen"/>poſed to mean the <hi>Mediterranean:</hi> and that likewiſe carries in it peculiar marks of Di<g ref="char:EOLhyphen"/>vine Wiſedome and Providence. I ſhall name but two; and theſe do both viſibly
+<pb n="22" facs="tcp:55819:14"/>bear the ſignature of Gods hand upon them.</p>
+            <p>One is, That whereas vaſt Quantities of Water do conſtantly fall into this Sea from the <hi>Euxin, Propontis</hi> and the <hi>Aegean</hi> Sea, and, as ſome think, from the <hi>Caſpian</hi> too, by cer<g ref="char:EOLhyphen"/>tain paſſages under ground, which do all tend Weſtward; it hath pleaſed God in his wiſe Providence to prepare a moſt conveni<g ref="char:EOLhyphen"/>ent outlet for them all by the <hi>Streights mouth</hi> into the great <hi>Ocean.</hi> For it is a vain conceit of thoſe who think this was not a work of God from the beginning, but an effect of mans art afterwards, and that at the firſt Creation there was a neck of Land reaching from <hi>Spain</hi> to <hi>Africk.</hi> Had this been ſo, where muſt the Mediterranean Sea have emptied it ſelf of all thoſe waters which it received from abroad? So that plainly, had it not been for that paſſage through which it diſ<g ref="char:EOLhyphen"/>charges it ſelf, all thoſe goodly Countries that border upon it muſt have been in per<g ref="char:EOLhyphen"/>petual danger of being drowned and o<g ref="char:EOLhyphen"/>verwhelmed; nay, would doubtleſs all of them long ſince have been nothing but Sea. Here then we have one great Argument of Divine Providence.</p>
+            <pb n="23" facs="tcp:55819:14"/>
+            <p>The other is, The convenient ſituation of this Sea, ſo fitly placed for the maintain<g ref="char:EOLhyphen"/>ing of Society and Traffick betwixt all the parts of the anciently known World; that, as it hath been piouſly and judiciouſly obſerved,
+<note place="margin">Mr. <hi>Evelys</hi> of Navig. and Com. p. 3.</note> Divine Providence ſeems to have done all for Man, and to have left nothing to humane wit or induſtry to add to it.</p>
+            <p n="4">4. The knowledg of true Religion. In the time of the old Law,
+<note place="margin">Pſal. 76.1.</note> 
+               <hi>God was known in Judah, and his name was great in Iſrael.</hi> The right worſhip of the true God was confined to one Nation, the reſt of the World was o<g ref="char:EOLhyphen"/>verſpread with Superſtition and Idolatry,
+<note place="margin">Act. 14.16.</note> 
+               <hi>In times paſt God ſuffered all Nations to walk in their own ways.</hi> But under the Goſpel the Pale of the Church is enlarged, and <hi>Chriſt</hi> is <hi>the deſire of all Nations, and there is neither Jew nor Greek,
+<note place="margin">Gal. 3.28.</note> neither bond nor free, neither male nor female, but all are one in Chriſt Jeſus:
+<note place="margin">Act. 10.35.</note> and in every Nation be that feareth him and worketh righteouſneſs is accept<g ref="char:EOLhyphen"/>ed with him.</hi> Now what more glorious em<g ref="char:EOLhyphen"/>ployment can any man wiſh to himſelf in this life, than to be Gods hand to reach forth the greateſt of his bleſſings to Mankind? It is certainly far more honourable to be an
+<pb n="24" facs="tcp:55819:15"/>inſtrument of Gods Goodneſs, than of his Power; to ſave a Soul, than to be <hi>foelix ter<g ref="char:EOLhyphen"/>rarum praedo,</hi> a deſtroyer of Kingdoms. For the latter, he often makes uſe of Satan him<g ref="char:EOLhyphen"/>ſelf, or the worſt of men, as he did of the <hi>Magicians</hi> of <hi>Aegypt,</hi> from whom indeed <hi>Pha<g ref="char:EOLhyphen"/>raob</hi> hoped, that they ſhould have removed the Plague,
+<note place="margin">Exod. 8.7.</note> and ſent for them to that end; but inſtead thereof they encreaſe the evil, by producing new ones.</p>
+            <p>Saint <hi>Paul</hi> ſaith of the Apoſtles and Mini<g ref="char:EOLhyphen"/>ſters of Chriſt,
+<note place="margin">2 Cor. 10.8.</note> that they have their <hi>power for edification, and not for deſtruction;</hi> but <hi>Satan</hi>'s power is all for deſtruction; he and his A<g ref="char:EOLhyphen"/>gents are not Phyſicians, but Executioners. But for acts of favour and mercy, God uſu<g ref="char:EOLhyphen"/>ally makes choice of thoſe whom he loves to be his inſtruments in conferring of them: So Chriſt tells the Angel or Biſhop of <hi>Phila<g ref="char:EOLhyphen"/>delphia,
+<note place="margin">Apocal. 3.9.</note> That they of the Synagogue of Satan ſhould know that he had loved him, becauſe he would make them come and worſhip before his feet:</hi> that is, becauſe God would make him the inſtru<g ref="char:EOLhyphen"/>ment of their converſion, and the golden Conduit to convey the water of life to them. Which was a good ſign of God's
+<pb n="25" facs="tcp:55819:15"/>ſpecial eſteem and love for him.</p>
+            <p>Now the improvements which have been made in the Art of Navigation of late A<g ref="char:EOLhyphen"/>ges, have put fair opportunities into the hands of Chriſtians to ſpread the knowledg of their great Redeemer, and his moſt ex<g ref="char:EOLhyphen"/>cellent Religion, much farther than in for<g ref="char:EOLhyphen"/>mer times it could have been.
+<note place="margin">Rom. 10.17.</note> 
+               <hi>Faith comes by hearing,</hi> ſaith the Apoſtle: Now many Nations are of difficult acceſs, others alto<g ref="char:EOLhyphen"/>gether unacceſſible, otherwiſe than by Sea; but of old, when men kept cloſe by the ſhore, no great diſcoveries or long voyages could be made, they being, in a dark night when they could not ſee the Stars or diſcern the Watch-towers or high Trees by the Sea ſide, always in extreme dread of ſhipwrack. But now, by that excellent invention of the Compaſs, God has made all the Quarters of the Earth eaſie to be approached unto. And it juſtly deſerves to be looked upon as a wonderful effect of Divine Providence, that God who had promiſed to his Son <hi>the utmoſt ends of the Earth for his poſſeſſion,</hi>
+               <note place="margin">Pſal. 2.8.</note> ſhould now in this old Age of the World bleſs it with that uſeful diſcovery, by the help whereof
+<pb n="26" facs="tcp:55819:16"/>the ſaving Doctrine of the Goſpel, and the knowledge of Chriſt Jeſus might more ea<g ref="char:EOLhyphen"/>ſily and more ſpeedily be publiſhed to all mankind.</p>
+            <p>And it would be a great Glory to any a<g ref="char:EOLhyphen"/>mongſt us, who have the opportunity of con<g ref="char:EOLhyphen"/>verſing with Infidels and barbarous Heathens that ſit in darkneſs and the ſhadow of death; I ſay, it would be your high Honour in the eſteem of God and of all good men, if, as you have ability and occaſion, you would endeavour to inſtil the knowledg of true Re<g ref="char:EOLhyphen"/>ligion into their hearts.</p>
+            <p>I know it will be replied, That your bu<g ref="char:EOLhyphen"/>ſineſs is Trade, and that the other is the Mini<g ref="char:EOLhyphen"/>ſters work, and does not concern you at all.</p>
+            <p>And indeed, it is not to be doubted but that it belongs only to ſuch who are called and ſolemnly ſet apart to that holy Functi<g ref="char:EOLhyphen"/>on, ordinarily, publickly, and by way of office to preach the Goſpel; yet all Chriſti<g ref="char:EOLhyphen"/>ans, keeping within the ſphere of their vo<g ref="char:EOLhyphen"/>cation,
+<note place="margin">1 Theſſ. 5.11.</note> may <hi>comfort and edifie one another,</hi> as the Apoſtle bids them do, and commends them for doing. Though under the Law, God had ſetled the Prieſthood in the Tribe
+<pb n="27" facs="tcp:55819:16"/>of <hi>Levi,</hi> yet he gives this command to all <hi>Iſ<g ref="char:EOLhyphen"/>rael,
+<note place="margin">Deut. 6.6, 7.</note> And theſe words which I command thee this day ſhall be in thine heart, and thou ſhalt teach them diligently to thy children, and ſhalt talk of them when thou ſitteſt in thine houſe, and when thou walkeſt by the way, and when thou lieſt down, and when thou riſeſt up.</hi>
+            </p>
+            <p>And this is eſpecially true in the preſent Caſe, when there is no ſetled Church, no Miniſters ordained, nor none ſuddenly can be. As St. <hi>Luke, Acts</hi> 8. ſpeaking of the perſecution at <hi>Hieruſalem,</hi> and how the whole Church was diſperſed, and what havock <hi>Saul</hi> made amongſt the Believers, he addes <hi>verſ.</hi> 4. that <hi>they who were ſcattered abroad preach<g ref="char:EOLhyphen"/>ed the Goſpel;</hi> and <hi>verſ.</hi> 5. he ſays, that <hi>Philip preached Chriſt in Samaria.</hi> Though the word be the ſame in both Verſes in our Tranſlati<g ref="char:EOLhyphen"/>on, yet in the Greek there are two ſeveral words; of thoſe in verſe 4. it is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, they told the glad tidings, all the Chri<g ref="char:EOLhyphen"/>ſtians who were ſcattered abroad, people as well as Preachers, related to others what they knew both of the Doctrine of Chriſt and his Apoſtles, and of the mighty mira<g ref="char:EOLhyphen"/>cles which they had ſeen wrought for
+<pb n="28" facs="tcp:55819:17"/>the confirmation of it, they reported the truth of what they did know and had ſeen.</p>
+            <p>But of <hi>Philip</hi> it is ſaid verſe 5. that he did <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, publickly and ſolemnly, as an Officer deſigned to the work, he <hi>preached Chriſt;</hi> and verſe 12. he baptized them alſo, he openly exerciſed the office of a Deacon or Miniſter amongſt them, where<g ref="char:EOLhyphen"/>as the others did only occaſionally tell what they had learned of the Doctrine, and be<g ref="char:EOLhyphen"/>held of the Miracles wrought by the Apo<g ref="char:EOLhyphen"/>ſtles. Though none but a publick Herald can by way of office ſolemnly proclaim the Kings Peace, yet any one who has heard of it may relate the good news, and make it known to thoſe he meets with, and acquaint them with the joyful tidings.</p>
+            <p>To this purpoſe we have an eminent in<g ref="char:EOLhyphen"/>ſtance in Church-Hiſtory of two Chriſtian Youths,
+<note place="margin">Soc. Hiſt. Eccl. l. 1. c. 19. Theod. l. 1. c. 23.</note> 
+               <hi>Erumentius</hi> and <hi>Aedeſius,</hi> who being de<g ref="char:EOLhyphen"/>livered Captives to the King of the <hi>Indies,</hi> did by degrees advance ſo far in his favour as that he intruſted them in very weighty and im<g ref="char:EOLhyphen"/>portant affairs; theſe men took all opportu<g ref="char:EOLhyphen"/>nities to acquaint the <hi>Indians</hi> with the Do<g ref="char:EOLhyphen"/>ctrine
+<pb n="29" facs="tcp:55819:17"/>of Chriſtianity, and found many of them very ready to liſten to it, whereup<g ref="char:EOLhyphen"/>on, having confirmed them what they could in the Faith, they returned into their own Country. And <hi>Frumentius</hi> having re<g ref="char:EOLhyphen"/>lated to <hi>Athanaſius</hi> the great Biſhop of <hi>Alex<g ref="char:EOLhyphen"/>andria</hi> what they had done; the good man judging him who had laid the foundation the fitteſt perſon to erect the building, or<g ref="char:EOLhyphen"/>dained him Biſhop of <hi>India,</hi> and ſent him back amongſt them, where by his Preach<g ref="char:EOLhyphen"/>ing and Miracles and holy Life, he con<g ref="char:EOLhyphen"/>verted an infinite number of them to the Faith, and was the firſt who planted a Church in thoſe Countries.</p>
+            <p>This was it which <hi>Moſes</hi> ſo highly com<g ref="char:EOLhyphen"/>mended in the Merchants of <hi>Zebulun,</hi> whoſe <hi>dwelling was at the Haven of the Sea,</hi> as dying <hi>Jacob</hi> foretold, <hi>Gen.</hi> 49.13. who as by their Traffick with foraign Countries they did hugely enrich themſelves and did <hi>ſuck the a<g ref="char:EOLhyphen"/>bundance of the Sea,
+<note place="margin">Deut. 33.19.</note> and of treaſures hid in the ſand,</hi> as <hi>Moſes</hi> words are; ſo they made uſe of their trading abroad, as he ſpeaks in the beginning of that Verſe, <hi>to call the people to the mountain,</hi> and to <hi>offer ſacrifices of Righ<g ref="char:EOLhyphen"/>teouſneſs:</hi>
+               <pb n="30" facs="tcp:55819:18"/>By occaſion of their Trading and commerce and acquaintance with the Hea<g ref="char:EOLhyphen"/>thens, they uſed all means to win them to the love of true Religion and to the wor<g ref="char:EOLhyphen"/>ſhip of the God of <hi>Iſrael.</hi>
+            </p>
+            <p>And this would be your praiſe, if, as you follow their employment, you would tread in their ſteps,
+<note place="margin">1 Theſſ. 1.9.</note> and do what you can to <hi>Turn men from Idols to ſerve the living God,</hi> by your inſtruction, if you be able; but however by your example, <hi>walking honeſtly towards them that are without,</hi> and by your Juſtice and Temper<g ref="char:EOLhyphen"/>ance and other Chriſtian Graces adorning your good Profeſſion: Your Virtuous and Holy lives would be the moſt powerful Ar<g ref="char:EOLhyphen"/>gument in the world to win them to a love of your Religion. When the Unbeliever ſhall ſee the Chriſtian ſober and compoſed and regular in his whole converſation,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> p. 524.</note> he will be aſtoniſhed (ſaith St. <hi>Chryſoſtom</hi>*) and will be ready to ſay, Certainly the God of the Chriſtians is a great God: What kind of men does he make them to be? <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; of how bad, how good? of Men he makes them Angels.</p>
+            <p>It is a known ſaying of <hi>Plato</hi>'s, that if vir<g ref="char:EOLhyphen"/>tue
+<pb n="31" facs="tcp:55819:18"/>could aſſume an humane ſhape, its beau<g ref="char:EOLhyphen"/>ties and excellencies are ſo great, that all men would be taken with the love and ad<g ref="char:EOLhyphen"/>miration of it: Now by the good lives of Chriſtians Virtue and goodneſs are, as it were, imbodied and repreſented not only to the Ears, but to the Eyes of men, made viſi<g ref="char:EOLhyphen"/>ble to all they converſe with; which muſt doubtleſs very much adorn their holy cal<g ref="char:EOLhyphen"/>ling, and would have a mighty efficacy up<g ref="char:EOLhyphen"/>on thoſe who ſhould ſee theſe ſhining lights. <hi>Thoſe Husbands,</hi> ſaith St. <hi>Peter,</hi> 1 <hi>Pet.</hi> 3.1, 2. <hi>who obey not the word, may without the word be won by the converſation of the Wives.</hi> Their Modeſt and Virtuous behaviour would be a moſt likely means to commend that Religion wherein they had been inſtructed.</p>
+            <p>
+               <hi>Juſtin Martyr</hi> gives us himſelf for an in<g ref="char:EOLhyphen"/>ſtance of this,
+<note place="margin">Apol. 2.</note> who as he ſays, being brought up in the School of <hi>Plato,</hi> and hearing the Chriſtians every where ſpoken againſt, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but ſeeing them fearleſs of death, and whatever the world accounts dreadful, he concluded it was im<g ref="char:EOLhyphen"/>poſſible they ſhould be wicked or volu<g ref="char:EOLhyphen"/>ptuous perſons, (as they were repreſented to
+<pb n="32" facs="tcp:55819:19"/>be) who were ſo reſolute and conſtant in the greateſt dangers.</p>
+            <p>When the lives of Chriſtians are viſible Sermons,
+<note place="margin">Epiſt. ad Trall.</note> and as the Bleſſed <hi>Ignatius</hi> ſays of a Primitive Biſhop, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that his whole carriage and behavi<g ref="char:EOLhyphen"/>our was a conſtant lecture of all Chriſtian graces, whereby at once, and that all his life long, he preached to his whole Dioceſs, then it is no wonder if (as he there adds) that e<g ref="char:EOLhyphen"/>ven Atheiſts and the moſt prophane con<g ref="char:EOLhyphen"/>temners of Religion could not chuſe but ſtand in awe of ſuch a perſon: for a good man is the moſt ſacred and venerable thing upon earth.</p>
+            <p>And certainly it would tend much to the honour of Chriſtianity, for you to ma<g ref="char:EOLhyphen"/>nifeſt by your regular and exemplary lives, what influence the commands and promiſes and threatnings of the Goſpel, have had up<g ref="char:EOLhyphen"/>on your own hearts.</p>
+            <p>And whilſt the School-men diſpute with a great deal of curioſity more than profit, about the Character of Baptiſm; do you ſhow the reality of it in your lives, by ma<g ref="char:EOLhyphen"/>king it evident to thoſe Heathens with
+<pb n="33" facs="tcp:55819:19"/>whom you Converſe and Traffick, that your ſeparation to Chriſt, your being markt out and deſigned for his in your Baptiſm, has imprinted an indeleble Cha<g ref="char:EOLhyphen"/>racter of all Chriſtian Vertues and Graces upon your Souls:
+<note place="margin">Eth. ad Nicom. l. 10. c. 7.</note> That ſo what <hi>Ariſtotle</hi> ſays loftily concerning the Contemplation of the great Book of Nature, may, as in reaſon it ought, be the viſible effect of your ſtudy of this leſs but better Book of Scri<g ref="char:EOLhyphen"/>pture, that it does <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as it were render men Immortal, diveſt them of their bodies, and raiſe them above the dregs and baſeneſs of this lower world.</p>
+            <p>This would be a convincing demonſtra<g ref="char:EOLhyphen"/>tion indeed, which would even <hi>compel them to come in</hi> to the Faith.</p>
+            <p>You would then carry thither a greater treaſure than any you can bring from thence: The Kingdom of Heaven, that is, the Do<g ref="char:EOLhyphen"/>ctrine of the Goſpel being a rich Jewel,
+<note place="margin">Matt. 13.45, 46.</note> 
+               <hi>a pearl of great price,</hi> which well deſerves the parting with all we have, for the attain<g ref="char:EOLhyphen"/>ment of it.</p>
+            <p>This would conſecrate even your civil Employments, make your Trade become
+<pb n="34" facs="tcp:55819:20"/>an act of Worſhip and Religion, and as God tells the City of <hi>Tyre,</hi> render your <hi>Mer<g ref="char:EOLhyphen"/>chandiſe holineſs to the Lord.</hi>
+               <note place="margin">Iſ. 23.18.</note>
+            </p>
+            <p>It would be your comfort in this life; you might then,
+<note place="margin">Deut. 33.18.</note> as <hi>Moſes</hi> bids them of <hi>Ze<g ref="char:EOLhyphen"/>bulun, Rejoyce in your goings out;</hi> your Voy<g ref="char:EOLhyphen"/>ages abroad would be really a cauſe of joy and comfort to you, when you made them ſubſervient to true Religion. For certainly, next to that Peace which paſſeth all Under<g ref="char:EOLhyphen"/>ſtanding, the calm and ſerenity which ari<g ref="char:EOLhyphen"/>ſeth from a good Conſcience and a ſenſe of Gods favour, there is nothing can be matter of more real and ſolid joy, than to have reſcued a Soul from the jaws of everlaſting Miſery, to have made another happy, to have been the inſtrument of my Brothers Eternal welfare.</p>
+            <p>And laſtly, it will abound to your ac<g ref="char:EOLhyphen"/>count, in the day of the Lord Jeſus; for as it is in the Verſe before the Text,
+<note place="margin">Dan. 12.3.</note> 
+               <hi>They who turn many to Righteouſneſs, ſhall ſhine as the Stars for ever and ever.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:55819:20"/>
+            <head>ERRATA.</head>
+            <p>PAge 5. l. 4 marg. for <hi>Rom.</hi> r. <hi>Dan.</hi> 7. p. 6. l. 2. r. <hi>adventurers.</hi> ib. l. 5. for <hi>around</hi> r. <hi>by the South of.</hi> ib. l. 5. marg. for <hi>Boet. Phat.</hi> r. <hi>Boch. Phal.</hi> p. 19. l. 7. r. <hi>Creation.</hi> p. 21. marg. r. <hi>Pſal.</hi> 135. 7. p. 24. l. 7. for <hi>ſhould</hi> r. <hi>would.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
